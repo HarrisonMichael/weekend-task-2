@@ -3,5 +3,4 @@ let niceName = (firstName,lastName) => {
     return fullName
 }
 
-niceName()
 console.log(niceName("Chimereze","Harrison"))
